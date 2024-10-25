@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Jiawei (Joe) Zhou
+# title: Jiawei (Joe) Zhou
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-# first_name: Jiawei (Joe)
-# last_name: Zhou
+first_name: Jiawei (Joe)
+last_name: Zhou
 
 # Status emoji
 status:
