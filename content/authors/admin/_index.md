@@ -184,9 +184,6 @@ awards:
 ## Jiawei (Joe) Zhou
 
 Assistant Professor
-
 Department of Applied Mathematics & Statistics
-
 Department of Computer Science
-
 Stony Brook University
