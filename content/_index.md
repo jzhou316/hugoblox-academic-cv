@@ -35,7 +35,7 @@ sections:
         padding: ['0px', '0', '0px', '0']
   - block: markdown
     content:
-      title: '📚 My Research'
+      title:
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
@@ -44,7 +44,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '2'
+      columns: '1'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0px', '0', '0px', '0']
