@@ -45,6 +45,9 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0px', '0', '0px', '0']
   - block: collection
     id: papers
     content:
